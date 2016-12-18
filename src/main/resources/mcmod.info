@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "flattenme",
+  "name": "Flatten Me",
+  "description": "A Mod with constant flat world generation.",
+  "version": "1.0",
+  "mcversion": "1.10.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["abused_master"],
+  "credits": "TheCodedOne for the mod name",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
